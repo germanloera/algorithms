@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$//HackerRank.iml" filepath="$PROJECT_DIR$//HackerRank.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectEuler/ProjectEuler.iml" filepath="$PROJECT_DIR$/ProjectEuler/ProjectEuler.iml" />
     </modules>
